@@ -13,8 +13,8 @@ public class A02_MultiplicaTresNumero {
         System.out.println("Dígame otro número");
         int numero3 = teclado.nextInt();
 
-        int suma = numero + numero2 + numero3;
+        int multiplicar = numero * numero2 * numero3;
 
-        System.out.println("La suma de " + numero + ", "+ numero2 + " y " + numero3 + " = " + (suma));
+        System.out.println("La multiplicación de " + numero + " + "+ numero2 + " + " + numero3 + " = " + multiplicar);
     }
 }

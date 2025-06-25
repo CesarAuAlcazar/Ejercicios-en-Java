@@ -11,7 +11,7 @@ public class A09_OperacionesEquivalentes {
         int num1 = sc.nextInt();
         System.out.println("Ingrese el segundo numero: ");
         int num2 = sc.nextInt();
-        System.out.println("Ingrese el primer numero: ");
+        System.out.println("Ingrese el tercer numero: ");
         int num3 = sc.nextInt();
 
         double resultado = Double.parseDouble (String.valueOf((num1 + num2) * num3));

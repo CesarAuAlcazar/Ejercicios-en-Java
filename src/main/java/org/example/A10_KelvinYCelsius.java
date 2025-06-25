@@ -14,6 +14,6 @@ public class A10_KelvinYCelsius {
         double farenheit = num1 * 1.8 + 32;
 
         System.out.println("La temperatura en grados Kelvin de: " + num1 + " grados Celsius es: " + kelvin);
-        System.out.println("la temperatura en grados Farenheir de: " + num1 + " grados Celsius es: " + farenheit);
+        System.out.println("la temperatura en grados Farenheit de: " + num1 + " grados Celsius es: " + farenheit);
     }
 }
