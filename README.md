@@ -45,4 +45,7 @@
 * A37 Contar números positivos
 * A38 Calificaciones con Switch
 * A39 Mostrar las letras del abecedario con char
+* A40 Tabla de multiplicar introduciendo un número
+* A41 Te dice si el número introducido es primo o no
+* 
 * 
