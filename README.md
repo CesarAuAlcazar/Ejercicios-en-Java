@@ -47,5 +47,6 @@
 * A39 Mostrar las letras del abecedario con char
 * A40 Tabla de multiplicar introduciendo un número
 * A41 Te dice si el número introducido es primo o no
-* 
+* A42 Ordena dos números en orden descendente
+* A43 Pagos con devolución de vueltas y efectivo en caja
 * 
