@@ -5,7 +5,7 @@
 
 ## **Los ejercicios tienen una dificultad ligeramente progresiva**
 
-
+EjerciciosVarios:
 * A01 Dando un número te devuelve el cuadrado
 * A02 Dando tres números los multiplica
 * A03 Dando dos números los divide
@@ -49,4 +49,25 @@
 * A41 Te dice si el número introducido es primo o no
 * A42 Ordena dos números en orden descendente
 * A43 Pagos con devolución de vueltas y efectivo en caja
+* 
+
+JFrame
+* L01 Creación de Marcos
+* L02 Crea un marco centrado en pantalla
+* L03 Texto en un marco
+* L04 Dibujos en un marco
+* L05 Dibujos 2D en un marco
+* L06 Coloreando marcos
+* L07a Comprobando las fuentes instaladas en el equipo
+* L07b Escribiendo en un marco
+* L08 Imágenes en un marco
+* L09 Eventos con marcos
+* L10 Optimizando L09
+* L11 Más eventos con marcos
+* L12 optimizando L11
+* L13 Cambios de estado del marco
+* L14 Eventos con teclado en marcos
+* L15 Eventos con ratón en un marco
+* L16 Eventos ratón heredando
+* L17 Eventos ratón con MouseMotionListener
 * 
