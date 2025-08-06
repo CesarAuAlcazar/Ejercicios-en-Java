@@ -70,4 +70,15 @@ JFrame
 * L15 Eventos con ratón en un marco
 * L16 Eventos ratón heredando
 * L17 Eventos ratón con MouseMotionListener
+* L18 Eventos de foco 
+* L19 Eventos de foco en marco
+* L20 Eventos Multiples
+* L21 Oyentes Multiples
+* L22 Layouts, jugando con Flow y Border
+* L23 Calculadora funcional
+* L24 Marco con confirmación de correo electrónico correcto
+* L25 Primer contacto con los DocumentListener
+* L26 Segundo intento con DocumentListener
+* L27 Primer contacto con JTextArea
+* L28 Segundo intento con JTextArea (un poco caótico)
 * 
